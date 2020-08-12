@@ -17,7 +17,7 @@
             "orderByField": "OrderByReleaseDateDESC",
             "hideUnavailableItems": true,
             "maxItemsPerPage": 8,
-            "facetsBehavior": "Blue Top Retro Camera"
+            "queryField": "Blue Top Retro Camera"
             }
           }
     }
