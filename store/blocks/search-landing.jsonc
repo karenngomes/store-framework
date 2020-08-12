@@ -1,0 +1,23 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner", 
+            "search-result-layout.customQuery"
+          ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth": "100%",
+            "src": "https://s2.glbimg.com/1QaNu4AYLDrF6Oo3vPg2YSXkN5A=/0x0:2000x1125/1080x608/smart/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/D/O/lVQH3sTHCNwWTOPOMp5Q/shell-1.stock2020-josemariodias-010011.jpg"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "querySchema": {
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8
+            }
+          }
+    }
+}
