@@ -48,11 +48,11 @@
 
       "vtex.menu@2.x:submenu#eletronics":{
         "children":[
-          "vtex.menu@2.x:menu#submenueletronics"
+          "vtex.menu@2.x:menu#eletronics"
         ]
       },
 
-      "vtex.menu@2.x:menu#submenueletronics": {
+      "vtex.menu@2.x:menu#eletronics": {
         "children": [
           "menu-item#cameras",
           "menu-item#laptops",
